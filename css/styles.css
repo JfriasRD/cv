@@ -1,0 +1,43 @@
+ body{
+    background-color: #EAF6F6;
+    }
+
+ hr{
+    background-color: #EAF6F6;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+    }
+
+ h1{
+    color: #66BFBF;
+    font-family: sans-serif;
+ }
+
+ h2{
+    color: #66BFBF;
+    font-family: sans-serif;
+ }
+
+ #profile-img{
+    border-radius: 100%;
+ }
+
+ .project:hover{
+    background-color: gold;
+ }
+
+ #table-project{
+      margin-left: auto;
+      margin-right: auto;
+
+ }
+
+ .program-img{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
